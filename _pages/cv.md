@@ -14,11 +14,10 @@ Education
 * B.Sc. in Computer Science, Technical University of Munich, 2023
 * _Currently, studying M.Sc. in Computer Science, Technical University, (presumably 2026)_
 
+Work experience
+======
 For a full CV drop me a message on [LinkedIn](https://www.linkedin.com/in/florian-glombik/) 💬📄
 
-[//]: # (Work experience)
-
-[//]: # (======)
 
 [//]: # (* Spring 2024: Academic Pages Collaborator)
 
