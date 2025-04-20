@@ -1,16 +1,11 @@
 {
   "basics": {
     "name": "Florian Glombik",
-    "email": "",
-    "phone": "",
     "website": "https://florian-glombik.github.io",
     "summary": "Currently studying at Technical University of Munich",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Munich",
-      "countryCode": "DE",
-      "region": ""
+      "countryCode": "DE"
     },
     "profiles": [
       {
