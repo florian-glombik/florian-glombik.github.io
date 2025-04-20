@@ -12,10 +12,20 @@ site_theme               : "default"
 title                    : "Florian Glombik"
 title_separator          : "-"
 name                     : &name "Florian Glombik"
-description              : &description # "personal description"
+description              : &description "Welcome to my homepage! I am currently studying computer science at the Technical University of Munich (TUM)"
 url                      : https://florian-glombik.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "florian-glombik/florian-glombik.github.io"
+keywords                 :
+    - "Florian Glombik"
+    - "florian-glombik"
+    - "florian-glombik.github.io"
+    - "Florian Glombik GitHub"
+    - "Florian Glombik TUM"
+    - "personal website"
+    - "software development"
+    - "Glombik Florian"
+    - "Glombik"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
