@@ -155,13 +155,10 @@ analytics:
 # Reading Files
 include:
   - .htaccess
-  - _pages/about.md
-  - _pages/cv.md
-  - _pages/sitemap.md
-  - _pages/404.md
+  - _pages
   - files
 exclude:
-  - _pages
+  - _pagesUnused
   - _posts
   - _publications
   - _portfolio
