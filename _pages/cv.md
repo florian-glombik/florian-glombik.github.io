@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Computer Science, Technical University of Munich, 2023
-* _Currently, studying M.Sc. in Computer Science, Technical University, (presumably 2026)_
+* _Currently, studying M.Sc. in Computer Science, Technical University of Munich, (presumably 2026)_
 
 Work experience
 ======
@@ -61,11 +61,15 @@ For a full CV drop me a message on [LinkedIn](https://www.linkedin.com/in/floria
 
 [//]: # (* Skill 3)
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[//]: # (Teaching)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.teaching reversed %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul>)
   
 [//]: # (Service and leadership)
 
